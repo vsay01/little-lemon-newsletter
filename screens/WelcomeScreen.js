@@ -49,10 +49,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     paddingVertical: 12,
-    paddingHorizontal: 100,
+    paddingHorizontal: 120,
     borderRadius: 4,
     elevation: 3,
-    backgroundColor: '3e524b',
+    backgroundColor: '#3e524b',
     marginBottom: 50,
     bottom: 0
   },
